@@ -9,7 +9,7 @@ function Create(){
 
     const handleSubmit =(e) => {
         e.preventDefault();
-        const blog = { title , content }
+        const blog = { title , content } 
         setIsadding(true);
         fetch ( "http://localhost:8000/blogs", {
             method: "POST",

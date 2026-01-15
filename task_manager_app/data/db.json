@@ -1,0 +1,332 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Complete project report",
+      "description": "Finalize and submit the project report by end of the week.",
+      "due_date": "2024-06-07",
+      "priority": "High",
+      "status": "in progress"
+    },
+    {
+      "id": "3",
+      "title": "Code review",
+      "description": "Review code submissions from team members.",
+      "due_date": "2024-06-06",
+      "priority": "Low",
+      "status": "completed"
+    },
+    {
+      "id": "4",
+      "title": "Client presentation",
+      "description": "Prepare slides and present the project progress to the client.",
+      "due_date": "2024-06-10",
+      "priority": "High",
+      "status": "not started"
+    },
+    {
+      "id": "5",
+      "title": "Update documentation",
+      "description": "Ensure all project documentation is up to date.",
+      "due_date": "2024-06-08",
+      "priority": "Medium",
+      "status": "in progress"
+    },
+    {
+      "id": "6",
+      "title": "Bug fixing",
+      "description": "Address and fix bugs reported in the last testing phase.",
+      "due_date": "2024-06-09",
+      "priority": "High",
+      "status": "not started"
+    },
+    {
+      "id": "7",
+      "title": "Research new tools",
+      "description": "Investigate new tools that could improve team productivity.",
+      "due_date": "2024-06-12",
+      "priority": "Low",
+      "status": "completed"
+    },
+    {
+      "id": "8",
+      "title": "Performance review",
+      "description": "Conduct performance reviews for team members.",
+      "due_date": "2024-06-11",
+      "priority": "Medium",
+      "status": "in progress"
+    },
+    {
+      "id": "9",
+      "title": "Plan team outing",
+      "description": "Organize a team outing for team building.",
+      "due_date": "2024-06-15",
+      "priority": "Low",
+      "status": "not started"
+    },
+    {
+      "id": "10",
+      "title": "Set up development environment",
+      "description": "Configure the development environment for new team members.",
+      "due_date": "2024-06-13",
+      "priority": "Medium",
+      "status": "completed"
+    },
+    {
+      "id": "11",
+      "title": "Conduct user testing",
+      "description": "Arrange sessions for user testing and gather feedback.",
+      "due_date": "2024-06-14",
+      "priority": "High",
+      "status": "in progress"
+    },
+    {
+      "id": "12",
+      "title": "Optimize database",
+      "description": "Improve database performance and optimize queries.",
+      "due_date": "2024-06-16",
+      "priority": "Medium",
+      "status": "not started"
+    },
+    {
+      "id": "13",
+      "title": "Design new feature",
+      "description": "Create design specifications for the new feature.",
+      "due_date": "2024-06-18",
+      "priority": "High",
+      "status": "in progress"
+    },
+    {
+      "id": "14",
+      "title": "Conduct market research",
+      "description": "Analyze market trends and competitor strategies.",
+      "due_date": "2024-06-20",
+      "priority": "Low",
+      "status": "not started"
+    },
+    {
+      "id": "15",
+      "title": "Prepare budget report",
+      "description": "Compile and analyze the budget report for the last quarter.",
+      "due_date": "2024-06-19",
+      "priority": "Medium",
+      "status": "completed"
+    },
+    {
+      "id": "16",
+      "title": "Update website content",
+      "description": "Refresh and update the content on the company website.",
+      "due_date": "2024-06-21",
+      "priority": "Low",
+      "status": "in progress"
+    },
+    {
+      "id": "17",
+      "title": "Organize training session",
+      "description": "Set up a training session for new software tools.",
+      "due_date": "2024-06-22",
+      "priority": "Medium",
+      "status": "not started"
+    },
+    {
+      "id": "18",
+      "title": "Review security protocols",
+      "description": "Assess and update the current security protocols.",
+      "due_date": "2024-06-23",
+      "priority": "High",
+      "status": "in progress"
+    },
+    {
+      "id": "19",
+      "title": "Plan marketing campaign",
+      "description": "Develop a strategy for the upcoming marketing campaign.",
+      "due_date": "2024-06-24",
+      "priority": "Medium",
+      "status": "not started"
+    },
+    {
+      "id": "20",
+      "title": "Conduct SWOT analysis",
+      "description": "Perform a SWOT analysis for the new business initiative.",
+      "due_date": "2024-06-25",
+      "priority": "Low",
+      "status": "completed"
+    },
+    {
+      "id": "21",
+      "title": "Set up analytics dashboard",
+      "description": "Create a dashboard to monitor key performance metrics.",
+      "due_date": "2024-06-26",
+      "priority": "High",
+      "status": "not started"
+    },
+    {
+      "id": "22",
+      "title": "Conduct team brainstorming",
+      "description": "Facilitate a brainstorming session for new project ideas.",
+      "due_date": "2024-06-27",
+      "priority": "Medium",
+      "status": "in progress"
+    },
+    {
+      "id": "23",
+      "title": "Evaluate vendor proposals",
+      "description": "Review and evaluate proposals from potential vendors.",
+      "due_date": "2024-06-28",
+      "priority": "Low",
+      "status": "not started"
+    },
+    {
+      "id": "24",
+      "title": "Implement feedback system",
+      "description": "Set up a system to collect feedback from users.",
+      "due_date": "2024-06-29",
+      "priority": "Medium",
+      "status": "completed"
+    },
+    {
+      "id": "25",
+      "title": "Develop mobile app",
+      "description": "Start development of the new mobile application.",
+      "due_date": "2024-06-30",
+      "priority": "High",
+      "status": "in progress"
+    },
+    {
+      "id": "26",
+      "title": "Conduct risk assessment",
+      "description": "Identify and assess potential risks for the project.",
+      "due_date": "2024-07-01",
+      "priority": "Medium",
+      "status": "not started"
+    },
+    {
+      "id": "27",
+      "title": "Set up customer support system",
+      "description": "Implement a system to handle customer support requests.",
+      "due_date": "2024-07-02",
+      "priority": "Low",
+      "status": "in progress"
+    },
+    {
+      "id": "28",
+      "title": "Create social media strategy",
+      "description": "Develop a strategy for social media engagement.",
+      "due_date": "2024-07-03",
+      "priority": "Medium",
+      "status": "not started"
+    },
+    {
+      "id": "29",
+      "title": "Optimize supply chain",
+      "description": "Analyze and improve the supply chain processes.",
+      "due_date": "2024-07-04",
+      "priority": "High",
+      "status": "completed"
+    },
+    {
+      "id": "30",
+      "title": "Plan product launch event",
+      "description": "Organize an event for the launch of the new product.",
+      "due_date": "2024-07-05",
+      "priority": "Medium",
+      "status": "completed"
+    },
+    {
+      "id": "31",
+      "title": "Conduct employee survey",
+      "description": "Gather feedback from employees through a survey.",
+      "due_date": "2024-07-06",
+      "priority": "Low",
+      "status": "not started"
+    },
+    {
+      "id": "32",
+      "title": "Develop training materials",
+      "description": "Create materials for the upcoming training sessions.",
+      "due_date": "2024-07-07",
+      "priority": "Medium",
+      "status": "completed"
+    },
+    {
+      "id": "33",
+      "title": "Set up cloud infrastructure",
+      "description": "Configure cloud services for the new application.",
+      "due_date": "2024-07-08",
+      "priority": "High",
+      "status": "in progress"
+    },
+    {
+      "id": "34",
+      "title": "Review legal compliance",
+      "description": "Ensure all project activities comply with legal regulations.",
+      "due_date": "2024-07-09",
+      "priority": "Medium",
+      "status": "not started"
+    },
+    {
+      "id": "35",
+      "title": "Create promotional materials",
+      "description": "Design brochures and flyers for marketing purposes.",
+      "due_date": "2024-07-10",
+      "priority": "Low",
+      "status": "completed"
+    },
+    {
+      "id": "36",
+      "title": "Implement SEO strategies",
+      "description": "Optimize website content for search engines.",
+      "due_date": "2024-07-11",
+      "priority": "Medium",
+      "status": "in progress"
+    },
+    {
+      "id": "37",
+      "title": "Conduct financial audit",
+      "description": "Review financial records and ensure accuracy.",
+      "due_date": "2024-07-12",
+      "priority": "High",
+      "status": "not started"
+    },
+    {
+      "id": "38",
+      "title": "Plan annual conference",
+      "description": "Organize logistics and agenda for the annual conference.",
+      "due_date": "2024-07-13",
+      "priority": "Medium",
+      "status": "completed"
+    },
+    {
+      "id": "39",
+      "title": "Develop customer loyalty program",
+      "description": "Create a program to reward loyal customers.",
+      "due_date": "2024-07-14",
+      "priority": "Low",
+      "status": "in progress"
+    },
+    {
+      "id": "40",
+      "title": "Set up automated testing",
+      "description": "Implement automated tests for the software application.",
+      "due_date": "2024-07-15",
+      "priority": "High",
+      "status": "not started"
+    },
+    {
+      "id": "8a16",
+      "title": "mohammad",
+      "description": "learning react",
+      "due_date": "2026-01-15",
+      "priority": "Low",
+      "status": "Pending"
+    },
+    {
+      "id": "a5fb",
+      "title": "listen to qura'am",
+      "description": "suratul khaf",
+      "due_date": "2026-01-16",
+      "priority": "Medium",
+      "status": "completed"
+    }
+  ]
+}
